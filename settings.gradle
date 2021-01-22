@@ -1,0 +1,2 @@
+rootProject.name='ModernDashboardUIDesign'
+include ':app'
